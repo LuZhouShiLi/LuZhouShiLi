@@ -6,6 +6,7 @@ About me:<img align="right" src="https://github-readme-stats.vercel.app/api?user
 - 🌱 Engaged in backend development, I am interested in distributed systems and high-concurrency systems.
 - 👯 My research focus is on deep learning and signal processing.
 - 👋 I have previously worked at iFlytek and NIO.
+- 🚗 Recently, I started working as a backend development intern at Kuaishou.
 
 
 
